@@ -2,10 +2,10 @@
 
 ## Daily Quote
 <!--QUOTE_START-->
-First solve the problem, then write the code.
+Programs must be written for people to read.
 <!--QUOTE_END-->
 
 ## Last Updated
 <!--DATE_START-->
-2026-09-18 20:31 UTC
+2026-09-19 20:09 UTC
 <!--DATE_END-->
