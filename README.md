@@ -2,10 +2,10 @@
 
 ## Daily Quote
 <!--QUOTE_START-->
-Programs must be written for people to read.
+Talk is cheap. Show me the code.
 <!--QUOTE_END-->
 
 ## Last Updated
 <!--DATE_START-->
-2026-09-23 21:11 UTC
+2026-09-24 21:14 UTC
 <!--DATE_END-->
