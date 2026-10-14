@@ -2,10 +2,10 @@
 
 ## Daily Quote
 <!--QUOTE_START-->
-Talk is cheap. Show me the code.
+First solve the problem, then write the code.
 <!--QUOTE_END-->
 
 ## Last Updated
 <!--DATE_START-->
-2026-10-13 22:21 UTC
+2026-10-14 21:20 UTC
 <!--DATE_END-->
